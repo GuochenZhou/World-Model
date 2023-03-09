@@ -1,2 +1,2 @@
 # World-Model
-A paper list of world model
+This is a growing paper list of world model. Currently, I am **actively** updating it.
