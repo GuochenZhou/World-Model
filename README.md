@@ -17,5 +17,16 @@ Nakano, Suzuki and Matsuo, 2023. Interaction-Based Disentanglement of Entities f
 ## 2021
 Friston wt al., 2021. World model learning and inference. Neural Networks. [ [www](https://psycnet.apa.org/record/2022-02182-049) | [pdf](https://web.archive.org/web/20211028143837id_/https://discovery.ucl.ac.uk/id/eprint/10137112/1/Friston_1-s2.0-S0893608021003610-main.pdf)]
 
+Zhang, Yang and Stadie, 2021. World Model as a Graph: Learning Latent Landmarks for Planning. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v139/zhang21x.html) | [pdf](http://proceedings.mlr.press/v139/zhang21x/zhang21x.pdf) ]
+
+Ball et al., 2021. Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v139/ball21a.html) | [pdf](http://proceedings.mlr.press/v139/ball21a/ball21a.pdf) ]
+
 ## 2020
 Kim et al., 2020. Active World Model Learning with Progress Curiosity. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/kim20e.html) | [pdf](http://proceedings.mlr.press/v119/kim20e/kim20e.pdf) ]
+
+Sekar et al., 2020. Planning to Explore via Self-Supervised World Models. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/sekar20a.html) | [pdf](http://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf) ]
+
+Lin et al., 2020. Improving Generative Imagination in Object-Centric World Models. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v119/lin20f.html) | [pdf](http://proceedings.mlr.press/v119/lin20f/lin20f.pdf)]
+
+## 2018
+Ha and Schmidhuber, 2018. Recurrent World Models Facilitate Policy Evolution. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) ]
