@@ -28,7 +28,7 @@ Kim et al., 2020. Active World Model Learning with Progress Curiosity. In Intern
 
 Sekar et al., 2020. Planning to Explore via Self-Supervised World Models. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/sekar20a.html) | [pdf](http://proceedings.mlr.press/v119/sekar20a/sekar20a.pdf) ]
 
-Lin et al., 2020. Improving Generative Imagination in Object-Centric World Models. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v119/lin20f.html) | [pdf](http://proceedings.mlr.press/v119/lin20f/lin20f.pdf)]
+Lin et al., 2020. Improving Generative Imagination in Object-Centric World Models. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v119/lin20f.html) | [pdf](http://proceedings.mlr.press/v119/lin20f/lin20f.pdf) ]
 
 ## 2018
 Ha and Schmidhuber, 2018. Recurrent World Models Facilitate Policy Evolution. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) ]
