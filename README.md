@@ -14,6 +14,9 @@ Dorka, Welschehold and Burgard, 2023. Dynamic Update-to-Data Ratio: Minimizing W
 
 Nakano, Suzuki and Matsuo, 2023. Interaction-Based Disentanglement of Entities for Object-Centric World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=JQc2VowqCzz) | [pdf](https://openreview.net/pdf?id=JQc2VowqCzz) ]
 
+##2022
+Sancaktar, Blaes and Martius, 2022. Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation. In Neural Information Processing Systems. [ [www](https://openreview.net/forum?id=NnuYZ1el24C) | [pdf](https://openreview.net/pdf?id=NnuYZ1el24C) ]
+
 ## 2021
 Friston wt al., 2021. World model learning and inference. Neural Networks. [ [www](https://psycnet.apa.org/record/2022-02182-049) | [pdf](https://web.archive.org/web/20211028143837id_/https://discovery.ucl.ac.uk/id/eprint/10137112/1/Friston_1-s2.0-S0893608021003610-main.pdf) ]
 
