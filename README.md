@@ -21,6 +21,8 @@ Zhang, Yang and Stadie, 2021. World Model as a Graph: Learning Latent Landmarks 
 
 Ball et al., 2021. Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v139/ball21a.html) | [pdf](http://proceedings.mlr.press/v139/ball21a/ball21a.pdf) ]
 
+Mendonca et al., 2021. Discovering and Achieving Goals via World Models. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2021/hash/cc4af25fa9d2d5c953496579b75f6f6c-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2021/file/cc4af25fa9d2d5c953496579b75f6f6c-Paper.pdf) ]
+
 ## 2020
 Kim et al., 2020. Active World Model Learning with Progress Curiosity. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/kim20e.html) | [pdf](http://proceedings.mlr.press/v119/kim20e/kim20e.pdf) ]
 
