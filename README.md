@@ -35,5 +35,8 @@ Lin et al., 2020. Improving Generative Imagination in Object-Centric World Model
 
 Jiang et al., 2020. Scalor: Generative world models with scalable object representations. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=SJxrKgStDH) | [pdf](https://openreview.net/pdf?id=SJxrKgStDH) ]
 
+## 2019
+Freeman, Ha and Metz, 2019. Learning to Predict Without Looking Ahead: World Models Without Forward Prediction. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2019/hash/15cf76466b97264765356fcc56d801d1-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2019/file/15cf76466b97264765356fcc56d801d1-Paper.pdf) ]
+
 ## 2018
 Ha and Schmidhuber, 2018. Recurrent World Models Facilitate Policy Evolution. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) ]
