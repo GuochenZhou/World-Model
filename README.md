@@ -26,6 +26,8 @@ Ball et al., 2021. Augmented World Models Facilitate Zero-Shot Dynamics Generali
 
 Mendonca et al., 2021. Discovering and Achieving Goals via World Models. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2021/hash/cc4af25fa9d2d5c953496579b75f6f6c-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2021/file/cc4af25fa9d2d5c953496579b75f6f6c-Paper.pdf) ]
 
+Hafner et al., 2021. Mastering Atari with Discrete World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=0oabwyZbOu) | [pdf](https://openreview.net/pdf?id=0oabwyZbOu) ]
+
 ## 2020
 Kim et al., 2020. Active World Model Learning with Progress Curiosity. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/kim20e.html) | [pdf](http://proceedings.mlr.press/v119/kim20e/kim20e.pdf) ]
 
