@@ -23,7 +23,7 @@ Park et al., 2022. Learning Symmetric Embeddings for Equivariant World Models. I
 
 Wang et al., 2022. Denoised MDPs: Learning World Models Better Than the World Itself. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v162/wang22c.html) | [pdf](https://proceedings.mlr.press/v162/wang22c/wang22c.pdf) ] 
 
-Zhao, Kong, Walters, Wong. Toward Compositional Generalization in Object-Oriented World Modeling. [ [www](https://proceedings.mlr.press/v162/zhao22b.html) | [pdf](https://proceedings.mlr.press/v162/zhao22b/zhao22b.pdf) ]
+Zhao, Kong, Walters, Wong. Toward Compositional Generalization in Object-Oriented World Modeling. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v162/zhao22b.html) | [pdf](https://proceedings.mlr.press/v162/zhao22b/zhao22b.pdf) ]
 
 Sancaktar, Blaes and Martius, 2022. Curious Exploration via Structured World Models Yields Zero-Shot Object Manipulation. In Neural Information Processing Systems. [ [www](https://openreview.net/forum?id=NnuYZ1el24C) | [pdf](https://openreview.net/pdf?id=NnuYZ1el24C) ]
 
