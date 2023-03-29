@@ -23,6 +23,8 @@ Sancaktar, Blaes and Martius, 2022. Curious Exploration via Structured World Mod
 
 Xu et al., 2022. Learning General World Models in a Handful of Reward-Free Deployments. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab6a2c6ee757afe43882121281f6065c-Abstract-Conference.html) | [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/ab6a2c6ee757afe43882121281f6065c-Paper-Conference.pdf) ]
 
+Pan, Zhu, Wang and Yang. Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. In Neural Information Processing Systems. [ [www](https://openreview.net/forum?id=6LBfSduVg0N) | [pdf](https://openreview.net/pdf?id=6LBfSduVg0N) ]
+
 As, Usmanova, Curi and Krause, 2022. Constrained Policy Optimization via Bayesian World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=PRZoSmCinhf) | [pdf](https://openreview.net/pdf?id=PRZoSmCinhf) ]
 
 Anand et al., 2022. Procedural generalization by planning with self-supervised world models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=FmBegXJToY) | [pdf](https://openreview.net/pdf?id=FmBegXJToY) ]
