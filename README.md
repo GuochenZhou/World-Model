@@ -57,6 +57,8 @@ Lin et al., 2020. Improving Generative Imagination in Object-Centric World Model
 
 Ball et al., 2020. Ready Policy One: World Building Through Active Learning. In International Conference on Machine Learning. [ [www](https://proceedings.mlr.press/v119/ball20a.html) | [pdf](https://proceedings.mlr.press/v205/seo23a/seo23a.pdf) ]
 
+Rajeswaran, Mordatch and Kumar, 2020. A Game Theoretic Framework for Model Based Reinforcement Learning. In International Conference on Machine Learning. [ [www](http://proceedings.mlr.press/v119/rajeswaran20a.html) | [pdf](http://proceedings.mlr.press/v119/rajeswaran20a/rajeswaran20a.pdf) ]
+
 Jiang et al., 2020. Scalor: Generative world models with scalable object representations. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=SJxrKgStDH) | [pdf](https://openreview.net/pdf?id=SJxrKgStDH) ]
 
 ## 2019
