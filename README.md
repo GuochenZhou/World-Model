@@ -28,6 +28,8 @@ Fu Peng and Lee., 2023. Go Beyond Imagination: Maximizing Episodic Reachability 
 
 Kauvar et al., 2023. Curious Replay for Model-based Adaptation. In International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=7p7YakZP2H) | [pdf](https://openreview.net/pdf?id=7p7YakZP2H) ]
 
+Feng et al., 2023. Finetuning Offline World Models in the Real World. Conference on Robotic Learning. [ [www](https://openreview.net/forum?id=JkFeyEC6VXV) | [pdf](https://openreview.net/pdf?id=JkFeyEC6VXV) ]
+
 
 
 
