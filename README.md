@@ -30,6 +30,8 @@ Kauvar et al., 2023. Curious Replay for Model-based Adaptation. In International
 
 Feng et al., 2023. Finetuning Offline World Models in the Real World. Conference on Robotic Learning. [ [www](https://openreview.net/forum?id=JkFeyEC6VXV) | [pdf](https://openreview.net/pdf?id=JkFeyEC6VXV) ]
 
+Hafner et al., 2023. Mastering Diverse Domains through World Models. arxiv. [ [www](https://arxiv.org/abs/2301.04104) | [pdf](https://arxiv.org/pdf/2301.04104.pdf) ]
+
 
 
 
