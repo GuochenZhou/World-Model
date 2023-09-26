@@ -28,6 +28,8 @@ Fu Peng and Lee., 2023. Go Beyond Imagination: Maximizing Episodic Reachability 
 
 Kauvar et al., 2023. Curious Replay for Model-based Adaptation. In International Conference on Machine Learning. [ [www](https://openreview.net/forum?id=7p7YakZP2H) | [pdf](https://openreview.net/pdf?id=7p7YakZP2H) ]
 
+Russell Mendonca, Shikhar Bahl and Deepak Pathak, 2023. Structured World Models from Human Videos. Robotics: Science and Systems. [ [www](https://roboticsconference.org/program/papers/012/) | [pdf](https://www.roboticsproceedings.org/rss19/p012.pdf) ]
+
 Feng et al., 2023. Finetuning Offline World Models in the Real World. Conference on Robotic Learning. [ [www](https://openreview.net/forum?id=JkFeyEC6VXV) | [pdf](https://openreview.net/pdf?id=JkFeyEC6VXV) ]
 
 Hafner et al., 2023. Mastering Diverse Domains through World Models. arxiv. [ [www](https://arxiv.org/abs/2301.04104) | [pdf](https://arxiv.org/pdf/2301.04104.pdf) ]
@@ -48,7 +50,7 @@ Sancaktar, Blaes and Martius, 2022. Curious Exploration via Structured World Mod
 
 Xu et al., 2022. Learning General World Models in a Handful of Reward-Free Deployments. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab6a2c6ee757afe43882121281f6065c-Abstract-Conference.html) | [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/ab6a2c6ee757afe43882121281f6065c-Paper-Conference.pdf) ]
 
-Pan, Zhu, Wang and Yang. Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. In Neural Information Processing Systems. [ [www](https://openreview.net/forum?id=6LBfSduVg0N) | [pdf](https://openreview.net/pdf?id=6LBfSduVg0N) ]
+Pan, Zhu, Wang and Yang, 2022. Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models. In Neural Information Processing Systems. [ [www](https://openreview.net/forum?id=6LBfSduVg0N) | [pdf](https://openreview.net/pdf?id=6LBfSduVg0N) ]
 
 As, Usmanova, Curi and Krause, 2022. Constrained Policy Optimization via Bayesian World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=PRZoSmCinhf) | [pdf](https://openreview.net/pdf?id=PRZoSmCinhf) ]
 
