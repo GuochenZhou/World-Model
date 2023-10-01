@@ -87,3 +87,6 @@ Freeman, Ha and Metz, 2019. Learning to Predict Without Looking Ahead: World Mod
 
 ## 2018
 Ha and Schmidhuber, 2018. Recurrent World Models Facilitate Policy Evolution. In Neural Information Processing Systems. [ [www](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html) | [pdf](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) ]
+
+## 2015
+Schmidhuber, 2015. On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models. arxiv. [ [www](https://arxiv.org/abs/1511.09249) | [pdf](https://arxiv.org/pdf/1511.09249.pdf) ] 
