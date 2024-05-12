@@ -1,6 +1,28 @@
 # World-Model
 This is a growing paper list of world model. Currently, I am **actively** updating it.
 
+## 2024
+
+Richens, et al., 2024. Robust agents learn causal world models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=pOoKI3ouv1) | [pdf](https://openreview.net/pdf?id=pOoKI3ouv1) ]
+
+Hansen, et al., 2024. TD-MPC2: Scalable, Robust World Models for Continuous Control. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=Oxh5CstDJU) | [pdf](https://openreview.net/pdf?id=Oxh5CstDJU) ]
+
+Gumbsch, et al., 2024. Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=TjCDNssXKU) | [pdf](https://openreview.net/pdf?id=TjCDNssXKU) ]
+
+Gumbsch, et al., 2024. Learning Hierarchical World Models with Adaptive Temporal Abstractions from Discrete Latent Dynamics. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=TjCDNssXKU) | [pdf](https://openreview.net/pdf?id=TjCDNssXKU) ]
+
+Huang, et al., 2024. SafeDreamer: Safe Reinforcement Learning with World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=tsE5HLYtYg) | [pdf](https://openreview.net/pdf?id=tsE5HLYtYg) ]
+
+Rimon, et al., 2024. MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=1RE0H6mU7M) | [pdf](https://openreview.net/pdf?id=1RE0H6mU7M) ]
+
+Liu, et al., 2024. Locality Sensitive Sparse Encoding for Learning World Models Online. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=i8PjQT3Uig) | [pdf](https://openreview.net/pdf?id=i8PjQT3Uig) ]
+
+Rigter, et al., 2024. Reward-Free Curricula for Training Robust World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=eCGpNGDeNu) | [pdf](https://openreview.net/pdf?id=eCGpNGDeNu) ]
+
+Zhang, et al., 2024. Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=Psl75UCoZM) | [pdf](https://openreview.net/pdf?id=Psl75UCoZM) ]
+
+Sehgal, et al., 2024. Neurosymbolic Grounding for Compositional World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=4KZpDGD4Nh) | [pdf](https://openreview.net/pdf?id=4KZpDGD4Nh) ]
+
 ## 2023
 Micheli, Alonso and François Fleuret, 2023. Transformers are Sample-Efficient World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=vhFu1Acb0xb) | [pdf](https://openreview.net/pdf?id=vhFu1Acb0xb) ]
 
