@@ -23,6 +23,8 @@ Zhang, et al., 2024. Copilot4D: Learning Unsupervised World Models for Autonomou
 
 Sehgal, et al., 2024. Neurosymbolic Grounding for Compositional World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=4KZpDGD4Nh) | [pdf](https://openreview.net/pdf?id=4KZpDGD4Nh) ]
 
+Wang, et al., 2024. Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning. [ [www](https://openreview.net/forum?id=ucxQrked0d) | [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/b041cbfcc3f282a9b3c8eb9c16177529-Paper-Conference.pdf)]
+
 ## 2023
 Micheli, Alonso and François Fleuret, 2023. Transformers are Sample-Efficient World Models. In International Conference on Learning Representations. [ [www](https://openreview.net/forum?id=vhFu1Acb0xb) | [pdf](https://openreview.net/pdf?id=vhFu1Acb0xb) ]
 
